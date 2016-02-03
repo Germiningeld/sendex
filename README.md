@@ -28,6 +28,7 @@ Now, you'll want to change references to sendex in the files in your
 new copied-from-sendex repo to whatever name of your new Extra will be. Once
 you've done that, you can create some System Settings:
 
+
 - 'mynamespace.core_path' - Point to /path/to/my/extra/core/components/extra/
 - 'mynamespace.assets_url' - /path/to/my/extra/assets/components/extra/
 
